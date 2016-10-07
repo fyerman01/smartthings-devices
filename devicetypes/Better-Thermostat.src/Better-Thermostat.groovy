@@ -25,7 +25,7 @@
 */
 metadata {
 	// Automatically generated. Make future change here.
-	definition (name: "Better Thermostat", namespace:"fyerman01", author: "Trey Mahon") {
+	definition (name: "Better Thermostat", namespace:"devicetypes", author: "Trey Mahon") {
 		capability "Temperature Measurement"
 		capability "Refresh"
 		capability "Thermostat"
